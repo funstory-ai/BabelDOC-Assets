@@ -51,6 +51,19 @@
     "sha3_256": "596b278d11418d374a1cfa3a50cbfb82b31db82d3650cfacae8f94311b27fdc5",
     "size": 13115416
   },
+  "LXGWWenKaiTC-Regular.ttf": {
+    "ascent": 928,
+    "bold": 0,
+    "descent": -256,
+    "encoding_length": 2,
+    "file_name": "LXGWWenKaiTC-Regular.ttf",
+    "font_name": "LXGW WenKai TC Regular",
+    "italic": 0,
+    "monospace": 0,
+    "serif": 1,
+    "sha3_256": "66ccd0ffe8e56cd585dabde8d1292c3f551b390d8ed85f81d7a844825f9c2379",
+    "size": 13100328
+  },
   "SourceHanSansCN-Bold.ttf": {
     "ascent": 1160,
     "bold": 1,
