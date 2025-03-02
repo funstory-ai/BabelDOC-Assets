@@ -1,6 +1,7 @@
 # BabelDOC-Assets
-Font and other resource files relied on by BabelDOC
+Font and other resource files relied on by [BabelDOC](https://github.com/funstory-ai/babeldoc) and [pdf2zh](https://github.com/Byaidu/PDFMathTranslate)
 
+BabelDOC is a PDF translation library, pdf2zh is a PDF translation tool.
 
 ## Fonts and Licenses
 
