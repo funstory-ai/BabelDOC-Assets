@@ -1,2 +1,14 @@
 # BabelDOC-Assets
 Font and other resource files relied on by BabelDOC
+
+
+## Fonts and Licenses
+
+- [Go Noto Universal](https://github.com/satbyy/go-noto-universal): [THE UNLICENSE](https://github.com/satbyy/go-noto-universal?tab=License-1-ov-file)
+
+- [Pal3love/Source-Han-TrueType](https://github.com/Pal3love/Source-Han-TrueType): [SIL OPEN FONT LICENSE Version 1.1](https://github.com/Pal3love/Source-Han-TrueType?tab=License-1-ov-file)
+
+- [lxgw/LxgwWenKaiGB](https://github.com/lxgw/LxgwWenKaiGB?tab=readme-ov-file): [OFL-1.1 License](https://github.com/lxgw/LxgwWenKaiGB?tab=OFL-1.1-1-ov-file)
+
+- [lxgw/LxgwWenkaiTC](https://github.com/lxgw/LxgwWenkaiTC?tab=readme-ov-file): [OFL-1.1 License](https://github.com/lxgw/LxgwWenkaiTC?tab=OFL-1.1-1-ov-file)
+
