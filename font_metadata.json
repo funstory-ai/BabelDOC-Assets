@@ -9,7 +9,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "6f5ab7b16acedeac76625f75159d9d303be85b291d47376760a1c9f87802853e"
+    "sha3_256": "000b37f592477945b27b7702dcad39f73e23e140e66ddff9847eb34f32389566",
+    "size": 15303772
   },
   "GoNotoKurrent-Regular.ttf": {
     "ascent": 1069,
@@ -21,7 +22,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "2f2cee5fbb2403df352ca2005247f6c4faa70f3086ebd31b6c62308b5f2f9865"
+    "sha3_256": "4324a60d507c691e6efc97420647f4d2c2d86d9de35009d1c769861b76074ae6",
+    "size": 15515760
   },
   "LXGWWenKaiGB-Regular.ttf": {
     "ascent": 928,
@@ -33,7 +35,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "2f7dc192ed99dec4eeb52170cccc214b20eabffb802b3b20116274d9d18db718"
+    "sha3_256": "b563a5e8d9db4cd15602a3a3700b01925e80a21f99fb88e1b763b1fb8685f8ee",
+    "size": 19558756
   },
   "LXGWWenKaiMonoTC-Regular.ttf": {
     "ascent": 928,
@@ -45,7 +48,8 @@
     "italic": 0,
     "monospace": 1,
     "serif": 1,
-    "sha256": "de8fae2bf43c1b702da77d37fd23317a76b75d3dc406640a2c868a4debba0f2e"
+    "sha3_256": "596b278d11418d374a1cfa3a50cbfb82b31db82d3650cfacae8f94311b27fdc5",
+    "size": 13115416
   },
   "SourceHanSansCN-Bold.ttf": {
     "ascent": 1160,
@@ -57,7 +61,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "2dcaecc0dcba896fdc48e32617633123d91fa80c7eb9f7ae7c836da70e45ce88"
+    "sha3_256": "82314c11016a04ef03e7afd00abe0ccc8df54b922dee79abf6424f3002a31825",
+    "size": 10174460
   },
   "SourceHanSansCN-Regular.ttf": {
     "ascent": 1160,
@@ -69,7 +74,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "dd4ae04ab7d33f43202750cf755b2ba47a2122ba41412954e562da459337bbf6"
+    "sha3_256": "b45a80cf3650bfc62aa014e58243c6325e182c4b0c5819e41a583c699cce9a8f",
+    "size": 10397552
   },
   "SourceHanSansHK-Bold.ttf": {
     "ascent": 1160,
@@ -81,7 +87,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "34fa1add2c9e7e8ee3fbb205a6ef5e8cb97f0393bbfe57c709273040cf10f48c"
+    "sha3_256": "3eecd57457ba9a0fbad6c794f40e7ae704c4f825091aef2ac18902ffdde50608",
+    "size": 6856692
   },
   "SourceHanSansHK-Regular.ttf": {
     "ascent": 1160,
@@ -93,7 +100,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "b5a170508f5c3441b183d1eae39ec0f99545cab64918d07260492783bd5fa297"
+    "sha3_256": "5fe4141f9164c03616323400b2936ee4c8265314492e2b822c3a6fbfb63ffe08",
+    "size": 6999792
   },
   "SourceHanSansJP-Bold.ttf": {
     "ascent": 1160,
@@ -105,7 +113,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "e35443f4e468d7a038191c4bc5fc51bf7242bc12052eb427c07f00a1c3cec0fd"
+    "sha3_256": "fb05bd84d62e8064117ee357ab6a4481e1cde931e8e984c0553c8c4b09dc3938",
+    "size": 5603068
   },
   "SourceHanSansJP-Regular.ttf": {
     "ascent": 1160,
@@ -117,7 +126,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "4fb6ea21d30d3fe1751e590786950e9153bfc31e2669ac3528bd2f641b791d76"
+    "sha3_256": "722cfbdcc0fd83fe07a3d1b10e9e64343c924a351d02cfe8dbb6ec4c6bc38230",
+    "size": 5723960
   },
   "SourceHanSansKR-Bold.ttf": {
     "ascent": 1160,
@@ -129,7 +139,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "51997e299785a2bc10806d95ff4fae0b1363caddea63c4e9fb43ee7d1dc899e0"
+    "sha3_256": "02959eb2c1eea0786a736aeb50b6e61f2ab873cd69c659389b7511f80f734838",
+    "size": 5858892
   },
   "SourceHanSansKR-Regular.ttf": {
     "ascent": 1160,
@@ -141,7 +152,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "061c9a55b6b731af2a4667f06efb82ed7c80ba99d5350c1bba76f80472ea304f"
+    "sha3_256": "aba70109eff718e8f796f0185f8dca38026c1661b43c195883c84577e501adf2",
+    "size": 5961704
   },
   "SourceHanSansTW-Bold.ttf": {
     "ascent": 1160,
@@ -153,7 +165,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "4cb4a8b665ef687fbfa15f4e5d551296d820183c68a324fb2432c88fa441c1e4"
+    "sha3_256": "4a92730e644a1348e87bba7c77e9b462f257f381bd6abbeac5860d8f8306aee6",
+    "size": 6883224
   },
   "SourceHanSansTW-Regular.ttf": {
     "ascent": 1160,
@@ -165,7 +178,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "e081fa19f3e92668c441c0e925ddc9ca35ed743d7c5d3308231a3c9a71302967"
+    "sha3_256": "6129b68ff4b0814624cac7edca61fbacf8f4d79db6f4c3cfc46b1c48ea2f81ac",
+    "size": 7024812
   },
   "SourceHanSerifCN-Bold.ttf": {
     "ascent": 1150,
@@ -177,7 +191,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "fafd6dc09a0ba3be1ac224aec3ff0befab97964c4ffba6b16f789702106577aa"
+    "sha3_256": "77816a54957616e140e25a36a41fc061ddb505a1107de4e6a65f561e5dcf8310",
+    "size": 14134156
   },
   "SourceHanSerifCN-Regular.ttf": {
     "ascent": 1150,
@@ -189,7 +204,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "8ba5ec09db04b1d1599edeff3fb5627ca11eaaf85e339e5c32684cb94e806993"
+    "sha3_256": "c8bf74da2c3b7457c9d887465b42fb6f80d3d84f361cfe5b0673a317fb1f85ad",
+    "size": 14047768
   },
   "SourceHanSerifHK-Bold.ttf": {
     "ascent": 1150,
@@ -201,7 +217,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "52698377eb509bb60271fec92a26045f055958af7ace4c332eee2dfe1754776d"
+    "sha3_256": "0f81296f22846b622a26f7342433d6c5038af708a32fc4b892420c150227f4bb",
+    "size": 9532580
   },
   "SourceHanSerifHK-Regular.ttf": {
     "ascent": 1150,
@@ -213,7 +230,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "cf43b8a00e3e7e35c5e3d7d8d05dd2d21aeaaa386f0c4fa6665c29a11ea01b73"
+    "sha3_256": "d5232ec3adf4fb8604bb4779091169ec9bd9d574b513e4a75752e614193afebe",
+    "size": 9467292
   },
   "SourceHanSerifJP-Bold.ttf": {
     "ascent": 1150,
@@ -225,7 +243,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "cbd7e67a0bc51b2da1d962a0de9a7745ad99a40a22febf6c56666119d21bfabe"
+    "sha3_256": "a4a8c22e8ec7bb6e66b9caaff1e12c7a52b5a4201eec3d074b35957c0126faef",
+    "size": 7811832
   },
   "SourceHanSerifJP-Regular.ttf": {
     "ascent": 1150,
@@ -237,7 +256,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "3f3ecec06d2cfa6a9eb57469f75c7f551c4281741465e8eb1d6953f22abe453c"
+    "sha3_256": "3d1f9933c7f3abc8c285e317119a533e6dcfe6027d1f5f066ba71b3eb9161e9c",
+    "size": 7748816
   },
   "SourceHanSerifKR-Bold.ttf": {
     "ascent": 1150,
@@ -249,7 +269,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "1e04d390823d458fc850f48d8fe6da19b55525249a5e63dded5690c288e138e1"
+    "sha3_256": "b071b1aecb042aa779e1198767048438dc756d0da8f90660408abb421393f5cb",
+    "size": 12387920
   },
   "SourceHanSerifKR-Regular.ttf": {
     "ascent": 1150,
@@ -261,7 +282,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "140861eba42585f3280a47d4c5199449386b0f986c7ab2c67fd5aa1615bb15d7"
+    "sha3_256": "a85913439f0a49024ca77c02dfede4318e503ee6b2b7d8fef01eb42435f27b61",
+    "size": 12459924
   },
   "SourceHanSerifTW-Bold.ttf": {
     "ascent": 1150,
@@ -273,7 +295,8 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "a4d7ad443bccb130decc358cfbf3fea92d66cae22113cc9ac26c0200ed91b7cb"
+    "sha3_256": "562eea88895ab79ffefab7eabb4d322352a7b1963764c524c6d5242ca456bb6e",
+    "size": 9551724
   },
   "SourceHanSerifTW-Regular.ttf": {
     "ascent": 1150,
@@ -285,6 +308,7 @@
     "italic": 0,
     "monospace": 0,
     "serif": 1,
-    "sha256": "53b849ebd349db18bf574e3cbb1307c903cc036b98ff009e3f445632b7e09a7f"
+    "sha3_256": "85c1d6460b2e169b3d53ac60f6fb7a219fb99923027d78fb64b679475e2ddae4",
+    "size": 9486772
   }
 }
